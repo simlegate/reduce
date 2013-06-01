@@ -10,6 +10,10 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        final ScreenActionReceiver screenactionreceiver = new ScreenActionReceiver();
+
+        registerReceiver(screenactionreceiver, screenactionreceiver.getFilter());
     }
 
 
