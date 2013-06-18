@@ -10,3 +10,6 @@
 
 ## 开发环境
 Android Studio 
+
+## Test
+Junit4.0+
