@@ -2,10 +2,13 @@
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
 1370098683000 478 ccc7321eccddc7ee395ba9b85205eafd0d8a268c /home/simlegate/workspace/android/workspace/reduce/reduce/build/classes/debug/com/simlegate/reduce/R$string.class
+1371546572000 297 0396d6ebfdc6902cdcc864832d01246e9979ff5f /home/simlegate/workspace/android/workspace/reduce/reduce/build/classes/debug/com/simlegate/reduce/APNManager.class
 1370098683000 409 843c6aba5719d5a3f0531c552a19fe63d3f25940 /home/simlegate/workspace/android/workspace/reduce/reduce/build/classes/debug/com/simlegate/reduce/R$layout.class
+1371546572000 315 8c9ed7ddc2fd733d25b60757b737513329dc2831 /home/simlegate/workspace/android/workspace/reduce/reduce/build/classes/debug/com/simlegate/reduce/MobileDataManger.class
 1370098683000 413 e0c4aeb822406175f9ab948861b694c17c83cfa7 /home/simlegate/workspace/android/workspace/reduce/reduce/build/classes/debug/com/simlegate/reduce/R$drawable.class
+1371542958000 2846 539292f8ce3c6ba3a655975c33d0e8904970e23c /home/simlegate/workspace/android/workspace/reduce/reduce/build/classes/debug/com/simlegate/reduce/ScreenBrightnessManager.class
 1370098683000 394 efd3030d813b0b7a6fa6c3b7f46c6b67127d841d /home/simlegate/workspace/android/workspace/reduce/reduce/build/classes/debug/com/simlegate/reduce/R$menu.class
-1370099642000 1466 b5319cfc829b86b3e75c9b96f318c97e5def325e /home/simlegate/workspace/android/workspace/reduce/reduce/build/classes/debug/com/simlegate/reduce/ScreenActionReceiver.class
+1371546572000 1799 f940e47d4f5e90198740eaaf0c4ee0650f704b29 /home/simlegate/workspace/android/workspace/reduce/reduce/build/classes/debug/com/simlegate/reduce/ScreenActionReceiver.class
 1370098683000 467 2460d079560a5c3883f1a9eccfcdfe754f536d10 /home/simlegate/workspace/android/workspace/reduce/reduce/build/classes/debug/com/simlegate/reduce/R$dimen.class
 1370099642000 1158 ce4190a49dc40099743e45a996c3d2cf2ac0d6d6 /home/simlegate/workspace/android/workspace/reduce/reduce/build/classes/debug/com/simlegate/reduce/MainActivity.class
 1370098683000 349 2cbe4055637b9bdf9c6d0638bdb032f7674ea176 /home/simlegate/workspace/android/workspace/reduce/reduce/build/classes/debug/com/simlegate/reduce/BuildConfig.class
